@@ -1,0 +1,32 @@
+body {
+    background-color:antiquewhite;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    }
+  
+    h3{
+      margin: 10px;
+      text-decoration: underline;
+    }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 0 10px;
+  }
+  
+  hr {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    border: none;
+    border-top: 2px solid #ccc;
+  }
+  
